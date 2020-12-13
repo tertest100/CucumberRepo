@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><testrun name="TestRunner" project="CucumExample" tests="3" started="3" failures="0" errors="0" ignored="0">
+  <testsuite name="stepdef.TestRunner" time="21.449">
+    <testsuite name="Feature: Search Functionality in Amazon website" time="21.449">
+      <testcase name="Provide the search function to the user to have quick access to the required product" classname="Search Functionality in Amazon website" time="7.644"/>
+      <testcase name="Provide the search function to the user to have quick access to the required product" classname="Search Functionality in Amazon website" time="7.008"/>
+      <testcase name="Provide the search function to the user to have quick access to the required product" classname="Search Functionality in Amazon website" time="6.797"/>
+    </testsuite>
+  </testsuite>
+</testrun>

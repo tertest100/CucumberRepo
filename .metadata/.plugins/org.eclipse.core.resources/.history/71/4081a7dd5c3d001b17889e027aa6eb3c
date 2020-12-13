@@ -1,0 +1,15 @@
+package stepdef;
+
+import io.cucumber.java.After;
+import io.cucumber.java.Before;
+
+public class SetUP {
+	@Before
+	public void SetDriver() {
+		System.out.println("Inside Before");
+	}
+	@After
+	public void CloseDriver() {
+	System.out.println("Inside After");	
+	}
+}
